@@ -1,5 +1,9 @@
-# First Repository by Gih
- Primeiro Repositório para o curso Git e GitHub do Curso em Vídeo do Prof. Guanabara
-Repositório criado durante uma aula em vídeo
+# Meu Portfólio
 
-Essa linha eu adicionei diretamente no site. Que impressionante!
+Bem-vindo ao meu portfólio! Aqui você pode encontrar alguns dos meus projetos de desenvolvimento e análise de dados.
+
+
+
+## Sobre Mim
+
+Meu nome é Gilrlane Costa, sou estudante de Análise e Desenvolvimento de Sistemas e estou me especializando em áreas como análise de dados, inteligência artificial e Power BI. Busco sempre desenvolver novas habilidades e aplicar conhecimentos em projetos práticos.
